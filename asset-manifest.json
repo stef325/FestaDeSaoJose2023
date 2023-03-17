@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FestaDeSaoJose2023/static/css/main.2104646d.css",
+    "main.js": "/FestaDeSaoJose2023/static/js/main.cd1ffd78.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/FestaDeSaoJose2023/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/FestaDeSaoJose2023/index.html",
+    "main.2104646d.css.map": "/FestaDeSaoJose2023/static/css/main.2104646d.css.map",
+    "main.cd1ffd78.js.map": "/FestaDeSaoJose2023/static/js/main.cd1ffd78.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/FestaDeSaoJose2023/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2104646d.css",
+    "static/js/main.cd1ffd78.js"
+  ]
+}
