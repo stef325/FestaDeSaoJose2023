@@ -1,0 +1,10 @@
+.patrocinador{
+    width: calc(1000px/5);
+    height: calc(600px/5);
+    object-fit: cover;
+    transition: transform 1px;
+}
+
+.patrocinador:hover{
+    transform: translateZ(20px);
+}

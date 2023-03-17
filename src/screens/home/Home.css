@@ -1,0 +1,14 @@
+.img-sao-jose{
+    width: 620px;
+    height: 620px;
+}
+
+.img-texto{
+    width: 550px;
+    height: 550px;
+}
+
+.home-conteiner{
+    display: flex;
+
+}

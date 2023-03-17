@@ -1,0 +1,74 @@
+.social-title{
+    color: #ffffff;
+}
+.social-header{
+
+    background-color: #BF760A;
+    width: 900px;
+    text-align: center;
+    height: 70px;
+    display: flex;
+    flex-direction: column;
+}
+
+.btn-sm{
+    width: 200px;
+    height: 50px;
+    border-radius: 25px;
+    color: white;
+    font-size: large;
+    font-family: 'Abhaya Libre', serif;
+    font-weight: 600;
+    border: none;
+    box-shadow: 0px 2px 7px 5px rgba(0, 0, 0, 0.25);
+}
+.redes{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 150px;
+    align-items: center;
+}
+
+.SocialMedia{
+    height: 250px;
+    
+}
+
+.yt{
+    background-color: #a81212;
+    cursor: pointer;
+}
+.face{
+    background-color: #0730a0;
+    cursor: pointer;
+}
+.insta{
+    background-color: #5a1caa;
+    cursor: pointer;
+}
+
+.yt:hover{
+
+    background-color: #770707;
+}
+.yt:active {
+    background-color: #460404;
+}
+
+.face:hover{
+
+    background-color: #031138;
+}
+.face:active {
+    background-color: #031036;
+}
+
+.insta:hover{
+
+    background-color: #210546;
+}
+.insta:active {
+    background-color: #190236;
+}

@@ -1,0 +1,17 @@
+.msg-padre-conteiner{
+    height: 700px;
+    width: 102%;
+    background-color: #BF760A;
+    color: white;
+    font-size: larger;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.img-msg-padre{
+    width: 150px !important;
+    height: 150px !important;
+    border-radius: 400px;
+    border: 5px solid #ffffff !important;
+}

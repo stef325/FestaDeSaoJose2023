@@ -1,0 +1,9 @@
+.madrinhas{
+    display: flex;
+    width: 700px;
+    justify-content: space-between;
+}
+hr{
+    height: 3px;
+    background-color: #BF760A;
+}
