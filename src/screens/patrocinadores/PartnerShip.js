@@ -7,24 +7,24 @@ import './PartnerShip.css'
 export default class PartnerShip extends Component {
   partners = [
     {
-      link:'arydoscorreios.png'
+      link: 'arydoscorreios.png'
     },
     {
-      link:'anonimos.png'
+      link: 'anonimos.png'
     },
     {
-      link:'farmaciasideal.png'
+      link: 'farmaciasideal.png'
     },
     {
-      link:'florisamodas.png'
+      link: 'florisamodas.png'
     },
     {
-      link:'professoramikaely.png'
+      link: 'professoramikaely.png'
     },
     {
-      link:'ricardoautomoveis.png'
+      link: 'ricardoautomoveis.png'
     }
-    
+
   ]
 
   render() {
@@ -35,14 +35,21 @@ export default class PartnerShip extends Component {
           <Partners partners={this.partners}></Partners>
         </div>
 
-        <br/>
+        <br />
         <div>
           <h2>Para se tornar um patrocinador, entre em contato pelo Instagram da PASCOM!</h2>
-          <br/>
-          <br/>
+          <br />
+          <br />
           <h2>Para contribuições de qualquer valor, escaneie o QR code abaixo</h2>
-          <img src="/img/qrcodecont.png" alt="" />
+          <img src="./FestaDeSaoJose2023/img/qrcodecont.png" alt="" />
+          <hr  className='linehr'/>
+          
         </div>
+
+        
+
+
+        <div></div>
 
 
       </div>

@@ -7,7 +7,7 @@ export default class Apoio extends Component {
       <div className='apoio-container'>
         <h1>Apoio:</h1>
         
-        <img src="/img/prefeitura.png" alt="" className='prefeitura'/>
+        <img src="./FestaDeSaoJose2023/img/prefeitura.png" alt="" className='prefeitura'/>
         <h1>Comércio Local</h1>
         <h1>Devotos de São José</h1>
 

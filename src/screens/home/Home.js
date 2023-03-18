@@ -7,10 +7,10 @@ export default class Home extends Component {
     return (
       <div className='home-conteiner'>
         <div className='img-conteiner'>
-          <img src="/img/imgBase.png" alt="" className='img-sao-jose'/>
+          <img src="./FestaDeSaoJose2023/img/imgBase.png" alt="" className='img-sao-jose'/>
         </div>
         <div className='home-text-conteiner'>
-          <img src="/img/imgTexto.png" alt="" className='img-texto'/>
+          <img src="./FestaDeSaoJose2023/img/imgTexto.png" alt="" className='img-texto'/>
         </div>
       </div>
     )

@@ -9,7 +9,7 @@ export default class MsgPadre extends Component {
                     Com este espírito queremos convidar você e toda sua família para participar deste momento celebrativo, juntamente com todos os fiéis devotos de São José.
                     Invoquemos a intercessão do nosso padroeiro para que proteja nossas famílias e nos guie no caminho da missão.</h1>
                 <div>
-                <img src="/img/peJoselito.jpg" alt="" className='img-msg-padre' />
+                <img src="./FestaDeSaoJose2023/img/peJoselito.jpg" alt="" className='img-msg-padre' />
                   <div className='pgrm-padre'>
                     <h2>Pe. Joselito Ferreira da Silva</h2>
                   </div>

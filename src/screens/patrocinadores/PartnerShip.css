@@ -8,6 +8,10 @@
     overflow: hidden;
     background-color: rgba(59, 59, 59, 0.26);
 }
+
+.linehr{
+    width: 600px;
+}
 .parceiros-all{
     display: flex;
     width: calc(250px*12);

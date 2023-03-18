@@ -41,7 +41,7 @@ export default class Religious extends Component {
                   <ProgrmItem description="19h - Solenidade de abertura da festa"></ProgrmItem>
                 </ProgrmTextBlock>
                 <div className='padre-progrm'>
-                  <img src="/img/peJoselito.jpg" alt="" className='img-padre' />
+                  <img src="./FestaDeSaoJose2023/img/peJoselito.jpg" alt="" className='img-padre' />
                   <div className='pgrm-padre'>
                     <h2>Pres. da celebração: </h2>
                     <h2>Pe. Joselito Ferreira da Silva</h2>
@@ -62,7 +62,7 @@ export default class Religious extends Component {
                   <ProgrmItem description="19h - Santa Missa"></ProgrmItem>
                 </ProgrmTextBlock>
                 <div className='padre-progrm'>
-                  <img src="/img/peLeandro.jpg" alt="" className='img-padre' />
+                  <img src="./FestaDeSaoJose2023/img/peLeandro.jpg" alt="" className='img-padre' />
                   <div className='pgrm-padre'>
                     <h2>Pres. da celebração: </h2>
                     <h2>Pe. Leandro Márcio</h2>
@@ -84,7 +84,7 @@ export default class Religious extends Component {
                 </ProgrmTextBlock>
 
                 <div className='padre-progrm'>
-                  <img src="/img/peMarcondes.jpg" alt="" className='img-padre' />
+                  <img src="./FestaDeSaoJose2023/img/peMarcondes.jpg" alt="" className='img-padre' />
                   <div className='pgrm-padre'>
                     <h2>Pres. da celebração: </h2>
                     <h2>Pe. Marcondes</h2>
@@ -104,7 +104,7 @@ export default class Religious extends Component {
                   </div>
                   
                   <div className='padre-progrm'>
-                    <img src="/img/peJoselito.jpg" alt="" className='img-padre-terca' />
+                    <img src="./FestaDeSaoJose2023/img/peJoselito.jpg" alt="" className='img-padre-terca' />
                     <div className='pgrm-padre'>
                       <h2>Pres. da celebração: </h2>
                       <h2>Pe. Joselito Ferreira da Silva</h2>
@@ -121,7 +121,7 @@ export default class Religious extends Component {
                   </ProgrmTextBlock>
 
                   <div className='padre-progrm'>
-                    <img src="/img/peSaulo.jpg" alt="" className='img-padre-terca' />
+                    <img src="./FestaDeSaoJose2023/img/peSaulo.jpg" alt="" className='img-padre-terca' />
                     <div className='pgrm-padre'>
                       <h2>Pres. da celebração: </h2>
                       <h2>Pe. Saulo</h2>
@@ -147,7 +147,7 @@ export default class Religious extends Component {
                   <ProgrmItem description="19h - Santa Missa"></ProgrmItem>
                 </ProgrmTextBlock>
                 <div className='padre-progrm'>
-                  <img src="/img/peDanilo.jpg" alt="" className='img-padre' />
+                  <img src="./FestaDeSaoJose2023/img/peDanilo.jpg" alt="" className='img-padre' />
                   <div className='pgrm-padre'>
                     <h2>Pres. da celebração: </h2>
                     <h2>Pe. Danilo César</h2>
@@ -167,7 +167,7 @@ export default class Religious extends Component {
                   <ProgrmItem description="19h - Santa Missa"></ProgrmItem>
                 </ProgrmTextBlock>
                 <div className='padre-progrm'>
-                  <img src="/img/peTadeu.png" alt="" className='img-padre' />
+                  <img src="./FestaDeSaoJose2023/img/peTadeu.png" alt="" className='img-padre' />
                   <div className='pgrm-padre'>
                     <h2>Pres. da celebração: </h2>
                     <h2>Pe. Tadeu Laurentino</h2>
@@ -186,7 +186,7 @@ export default class Religious extends Component {
                 </div>
                 
                 <div className='padre-progrm'>
-                  <img src="/img/domDulcenio.png" alt="" className='img-padre' />
+                  <img src="./FestaDeSaoJose2023/img/domDulcenio.png" alt="" className='img-padre' />
                   <div className='pgrm-dom-dulcenio'>
                     <h2>Pres. da celebração: </h2>
                     <h2>Dom Dulcenio Fontes de Matos</h2>
@@ -207,7 +207,7 @@ export default class Religious extends Component {
                   <ProgrmItem description="19h - Santa Missa"></ProgrmItem>
                 </ProgrmTextBlock>
                 <div className='padre-progrm'>
-                  <img src="/img/peJoseque.png" alt="" className='img-padre' />
+                  <img src="./FestaDeSaoJose2023/img/peJoseque.png" alt="" className='img-padre' />
                   <div className='pgrm-padre'>
                     <h2>Pres. da celebração: </h2>
                     <h2>Pe. Joseque Borges</h2>
@@ -228,7 +228,7 @@ export default class Religious extends Component {
                   <ProgrmItem description="17h -Missa Solene de Encerramento"></ProgrmItem>
                 </ProgrmTextBlock>
                 <div className='padre-progrm'>
-                  <img src="/img/peJoselito.jpg" alt="" className='img-padre' />
+                  <img src="./FestaDeSaoJose2023/img/peJoselito.jpg" alt="" className='img-padre' />
                   <div className='pgrm-padre'>
                     <h2>Pres. da celebração: </h2>
                     <h2>Pe. Joselito Ferreira da Silva</h2>
